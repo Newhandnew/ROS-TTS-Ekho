@@ -2,7 +2,10 @@
 <package>
   <name>tts_ekho</name>
   <version>0.0.0</version>
-  <description>The tts_ekho package</description>
+  <description>The tts_ekho package
+	pre-install library
+	sudo apt-get install libsndfile1-dev libpulse-dev libncurses5-dev libestools2.1-dev festival-dev libmp3lame-dev
+  </description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
   <!-- Example:  -->
